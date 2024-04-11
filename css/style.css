@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com");
+
+@import url("components/container.css");
+@import url("components/paris.css");
+@import url("components/shanghai.css");
+@import url("components/banner.css");
+@import url("components/madrid.css");
+
+
+body {
+	font-family: "Reddit Mono", monospace;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: "Reddit Mono", monospace;
+	font-weight: <weight>;
+}
+
+a {
+	text-decoration: none;
+}
